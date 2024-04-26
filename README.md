@@ -1,5 +1,11 @@
 # E-Commerce-website-with-Springboot
 
+
+<a href="https://github.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot"><img src="https://visitor-badge.laobi.icu/badge?page_id=AtharvaKulkarniIT.E-Commerce-website-with-Springboot" alt="Visitors"/></a>
+[![GitHub Forks](https://img.shields.io/github/forks/AtharvaKulkarniIT/E-Commerce-website-with-Springboot.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/fork)
+<a href="https://github.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/stargazers"><img src="https://img.shields.io/github/stars/AtharvaKulkarniIT/E-Commerce-website-with-Springboot" alt="Stars Badge"/></a>
+[![GitHub Issues](https://img.shields.io/github/issues/AtharvaKulkarniIT/E-Commerce-website-with-Springboot.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/issues)
+
 This project utilizes Spring MVC, JDBC, JSP and Servlet technologies to create an E-Commerce platform
 
 📝 **Features:**
