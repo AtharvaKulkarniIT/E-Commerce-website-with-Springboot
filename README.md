@@ -4,9 +4,9 @@ This project utilizes Spring MVC, JDBC, JSP and Servlet technologies to create a
 
 📝 **Features:**
 - ADMIN MODULE + USER MODULE
-- CRUD Operations
-- Beginner-friendly and easy to understand
 - MVC Architecture
+- CRUD Operations
+- Intuitive and responsive user interface design for seamless navigation across devices
 
 
 ⚙️  **How To Run**
