@@ -1,12 +1,12 @@
 # E-Commerce-website-with-Springboot
 
-This project utilizes Spring MVC, JDBC, JSP and Servlet technologies to create an eCommerce platform.
+This project utilizes Spring MVC, JDBC, JSP and Servlet technologies to create an E-Commerce platform
 
 📝 **Features:**
 - ADMIN MODULE + USER MODULE
 - MVC Architecture
 - CRUD Operations
-- Intuitive and responsive user interface design for seamless navigation across devices
+- Intuitive and responsive user interface design 
 
 
 ⚙️  **How To Run**
