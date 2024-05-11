@@ -4,7 +4,6 @@
 <a href="https://github.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot"><img src="https://visitor-badge.laobi.icu/badge?page_id=AtharvaKulkarniIT.E-Commerce-website-with-Springboot" alt="Visitors"/></a>
 [![GitHub Forks](https://img.shields.io/github/forks/AtharvaKulkarniIT/E-Commerce-website-with-Springboot.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/fork)
 <a href="https://github.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/stargazers"><img src="https://img.shields.io/github/stars/AtharvaKulkarniIT/E-Commerce-website-with-Springboot" alt="Stars Badge"/></a>
-[![GitHub Issues](https://img.shields.io/github/issues/AtharvaKulkarniIT/E-Commerce-website-with-Springboot.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/issues)
 
 This project utilizes Spring Boot, JDBC, JSP and Servlet technologies to create an E-Commerce platform.
 
@@ -68,15 +67,22 @@ MVC (Model-View-Controller) is a software architectural pattern commonly used fo
 
 ## Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/main/E-Commerce/E-Commerce/Media/Screenshot%202024-05-11%20165423.png)
+**Home Page:**
+![Home Page](https://drive.google.com/uc?export=download&id=1pq8LM6aPkWictoTSVVSODnIFyufgHGK4)
 
-![Screenshot 2](https://raw.githubusercontent.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/main/E-Commerce/E-Commerce/Media/Screenshot%202024-05-11%20165505.png)
+</br>
 
-![Screenshot 3](https://raw.githubusercontent.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/main/E-Commerce/E-Commerce/Media/Screenshot%202024-05-11%20165547.png)
+**Products:**
+![Products](https://drive.google.com/uc?export=download&id=1di43hKR2_-9TBvyykXq7TkgfC5a8Ydam)
+
+</br>
+
+**Admin:**
+![Admin](https://drive.google.com/uc?export=download&id=1LU6TidlLKq9p2ZXT7SM2JHEM1U5ltzqt)
 
 ## Acknowledgements
 
-This project was created with reference to [E-commerce project](https://github.com/jaygajera17/E-commerce-project-springBoot/tree/main). We appreciate their contribution to the development community.
+This project was created with reference to [E-commerce website](https://github.com/jaygajera17/E-commerce-project-springBoot/tree/main). We appreciate their contribution to the development community.
 
 ## Contributions 
 
