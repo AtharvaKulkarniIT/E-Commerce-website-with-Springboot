@@ -66,10 +66,6 @@ MVC (Model-View-Controller) is a software architectural pattern commonly used fo
   - Username: Atharva
   - Password: 1234
 
-## Contributions 
-
-Feel free to explore and contribute to this project!
-
 ## Screenshots
 
 ![Screenshot 1](https://raw.githubusercontent.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/main/E-Commerce/E-Commerce/Media/Screenshot%202024-05-11%20165423.png)
@@ -80,4 +76,8 @@ Feel free to explore and contribute to this project!
 
 ## Acknowledgements
 
-This project was created with reference to [jaygajera17's E-commerce project with Spring Boot](https://github.com/jaygajera17/E-commerce-project-springBoot/tree/main). We appreciate their contribution to the development community.
+This project was created with reference to [E-commerce project](https://github.com/jaygajera17/E-commerce-project-springBoot/tree/main). We appreciate their contribution to the development community.
+
+## Contributions 
+
+Feel free to explore and contribute to this project!
