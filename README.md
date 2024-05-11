@@ -6,7 +6,7 @@
 <a href="https://github.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/stargazers"><img src="https://img.shields.io/github/stars/AtharvaKulkarniIT/E-Commerce-website-with-Springboot" alt="Stars Badge"/></a>
 [![GitHub Issues](https://img.shields.io/github/issues/AtharvaKulkarniIT/E-Commerce-website-with-Springboot.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/issues)
 
-This project utilizes Spring MVC, JDBC, JSP and Servlet technologies to create an E-Commerce platform
+This project utilizes Spring Boot, JDBC, JSP and Servlet technologies to create an E-Commerce platform.
 
 📝 **Features:**
 - ADMIN MODULE + USER MODULE
@@ -69,3 +69,15 @@ MVC (Model-View-Controller) is a software architectural pattern commonly used fo
 ## Contributions 
 
 Feel free to explore and contribute to this project!
+
+## Screenshots
+
+![Screenshot 1](https://raw.githubusercontent.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/main/E-Commerce/E-Commerce/Media/Screenshot%202024-05-11%20165423.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/main/E-Commerce/E-Commerce/Media/Screenshot%202024-05-11%20165505.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/AtharvaKulkarniIT/E-Commerce-website-with-Springboot/main/E-Commerce/E-Commerce/Media/Screenshot%202024-05-11%20165547.png)
+
+## Acknowledgements
+
+This project was created with reference to [jaygajera17's E-commerce project with Spring Boot](https://github.com/jaygajera17/E-commerce-project-springBoot/tree/main). We appreciate their contribution to the development community.
