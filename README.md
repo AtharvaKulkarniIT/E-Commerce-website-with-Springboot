@@ -83,7 +83,7 @@ MVC (Model-View-Controller) is a software architectural pattern commonly used fo
 </br>
 
 **Payment :**
-![Payment](https://drive.google.com/file/d/1Pk3HCt1uEulD2TVOE8rSfRyHplqjweX3/view?usp=sharing)
+![Payment](https://drive.google.com/uc?export=download&id=1Pk3HCt1uEulD2TVOE8rSfRyHplqjweX3)
 ## Acknowledgements
 
 This project was created with reference to [E-commerce website](https://github.com/jaygajera17/E-commerce-project-springBoot/tree/main). We appreciate their contribution to the development community.
